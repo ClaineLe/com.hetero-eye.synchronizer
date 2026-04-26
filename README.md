@@ -1,6 +1,6 @@
-﻿# Hetero Eye Synchronizer
+﻿# Snk Synchronizer
 
-Hetero Eye Synchronizer 是一个 Unity Editor 同步工具，用于把一个仓库的文件严格同步到另一个仓库。
+Snk Synchronizer 是一个 Unity Editor 同步工具，用于把一个仓库的文件严格同步到另一个仓库。
 
 当前内置实现：
 
