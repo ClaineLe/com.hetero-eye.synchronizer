@@ -1,0 +1,19 @@
+{
+  "name": "com.hetero-eye.synchronizer",
+  "displayName": "Snk Synchronizer",
+  "version": "0.1.0",
+  "unity": "2019.4",
+  "description": "Editor-only repository synchronizer for Unity. It previews and applies strict MD5-based synchronization between local folders and cloud object storage repositories.",
+  "keywords": [
+    "unity",
+    "editor",
+    "synchronizer",
+    "oss",
+    "cdn",
+    "md5"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Hetero Eye"
+  }
+}
